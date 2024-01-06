@@ -1,7 +1,7 @@
 # Automated Login Script for Educational Purposes
 
 ## Description
-This repository contains a Python script utilizing PyAutoGUI for automating login processes, developed strictly for educational purposes. The script demonstrates how to use automation to interact with web interfaces, aimed at teaching scripting and automation basics.
+This repository contains a Python script utilizing PyAutoGUI for automating Bask uni login processes and captcha number test pass , developed strictly for educational purposes. The script demonstrates how to use automation to interact with web interfaces, aimed at teaching scripting and automation basics.
 
 ![Placeholder Image](path/to/image.png)  
 *Image description here*
