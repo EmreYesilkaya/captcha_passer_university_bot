@@ -3,7 +3,7 @@
 ## Description
 This repository contains a Python script utilizing PyAutoGUI for automating Bask uni login processes and captcha number test pass , developed strictly for educational purposes. The script demonstrates how to use automation to interact with web interfaces, aimed at teaching scripting and automation basics.
 
-![Placeholder Image](path/to/ima![[google_lens_captcha](https://github.com/EmreYesilkaya/captcha_passer_university_bot/assets/89980393/cc4d73c9-142e-4033-b997-08ea816b4052)]()
+![Installation Process Image](path/to/another/image.png)  
 
 
 ## Disclaimer
@@ -24,8 +24,9 @@ This script is intended for educational purposes to demonstrate automation techn
 - Ensure Python and PyAutoGUI are installed on your system.
 - Remove any sensitive information or credentials from the script.
 - Usage instructions here...
+![google_lens_captcha](https://github.com/EmreYesilkaya/captcha_passer_university_bot/assets/89980393/2a4c4a49-bf46-443f-a263-61ccc0da9fcc)
 
-![Installation Process Image](path/to/another/image.png)  
+
 *Detailed installation steps can be visually represented here*
 
 ## Contributing
